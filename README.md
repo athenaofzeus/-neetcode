@@ -5,7 +5,7 @@
 3. Дают ли два числа из массива заданное значение
 
 
-#### В файле arr and hashing (neetcode) содержатся решения задач уровня _middle_:
+#### В файле arr and hashing (neetcode)2 содержатся решения задач уровня _middle_:
 1. Group Anagrams
 2. Top K Frequent Elements
 3. Encode and Decode Strings
